@@ -1,7 +1,7 @@
 # MitaBot-V3
 By FarizGD
 
-(Forked from AxelDev/(lupa nama botnya))
+(Edited from Axel[something, lupa]/(lupa nama botnya))
 btw thx :v
 
 📰Fitur📰
