@@ -10,6 +10,7 @@ btw thx :v
 - (✔️) Admin Menu
 - (✔️) Donate (https://saweria.co/FarizGD) plss
 - (✔️) and some other shit.
+- (⚠️) Pakai "pnpm install" dan jangan npm atau yarn.
 
 # Also Check out minecraft server teman gw!
 https://farizgd.github.io/Nexterra-Web/
